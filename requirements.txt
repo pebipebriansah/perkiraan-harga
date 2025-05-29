@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+azure-functions
+openpyxl
+azure-storage-blob
+python-dotenv
